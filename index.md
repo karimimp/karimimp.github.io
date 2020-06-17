@@ -2,13 +2,8 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CFD modeling of fermentation bioreactors](/fermentation)
  
----
-Here is a new thing!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bVpep5w4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
