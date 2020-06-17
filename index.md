@@ -2,35 +2,31 @@
 
 ---
 
-[CFD modeling of fermentation bioreactors](/fermentation)
+[Mass Transfer Intensification in Fermentation Bioreactors](/fermentation)
  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bVpep5w4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Model Developments for Gas-Liquid, and Liquid-Liquid Systems](/breakup)
+
+Development of breakup kernels
 
 ---
 
-### Category Name 2
+[MoDeNa](/modena)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+MoDeNa project for poyurethane foams
 
 ---
 
+[Flotation](/flotation)
 
-
+CFD Modeling of Flotation Tanks
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+[Hydrocyclone](/hydrocyclone)
+
+CFD modeling of hydrocyclone
