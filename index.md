@@ -17,7 +17,7 @@
 
 ---
 
-[CFD-Kinetic Modeling of Flotation Tanks](/flotation)
+[CFD Modeling of Flotation Tanks](/flotation)
 
 
 ---
