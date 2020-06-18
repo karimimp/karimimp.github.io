@@ -9,22 +9,17 @@
 
 [Model Developments for Gas-Liquid, and Liquid-Liquid Systems](/breakup)
 
-Development of breakup kernels
 
 ---
 
 [MoDeNa](/modena)
 
-MoDeNa project for poyurethane foams
 
 ---
 
-[Flotation](/flotation)
+[CFD-Kinetic Modeling of Flotation Tanks](/flotation)
 
-CFD Modeling of Flotation Tanks
 
 ---
 
-[Hydrocyclone](/hydrocyclone)
-
-CFD modeling of hydrocyclone
+[Numerical, Analytical, and Experimental Modeling of Hydrocyclone](/hydrocyclone)
