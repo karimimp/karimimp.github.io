@@ -23,3 +23,7 @@
 ---
 
 [Numerical, Analytical, and Experimental Modeling of Hydrocyclone](/hydrocyclone)
+
+---
+
+[List of Publications](/publications)
