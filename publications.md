@@ -77,9 +77,6 @@ In this page I keep track of my publications including book chapter, peer-review
 
 
 
-### 2013
----
-
 ### 2012
 ---
 
