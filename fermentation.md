@@ -5,10 +5,6 @@ The current project that I am working on is about mass transfer intensification 
 
 
 The OpenFOAM line of model development deals with the physical phenomena that occur at the gas-liquid interface and the modeling difficulties relevant for this length scale. For example the video below shows the treatment of surface tension forces at the interface might lead to nonphysical velocities  also known as _wobbling interface or parasitic currents_.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jo_ll1XzLRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Below is an image of OpenFOAM simulations capturing the thickness of mass boundary layer for diffusion of a species. 
 
 
@@ -25,8 +21,6 @@ The simulations are validated with measurements. The below image and video are e
 
 
 <img src="images/bsd.png?raw=true"/>
-
-
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W1bVpep5w4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
