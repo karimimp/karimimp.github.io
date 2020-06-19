@@ -1,11 +1,13 @@
 ## Breakup Models Developments for Gas-Liquid and Liquid-Liquid Systems
 ---
 
-I worked for 2 years on developing fundamental models for improving the understanding of droplet and gas bubble breakup in turbulent flows. The idea was to improve the breakup kernels for population balance equation to account for the entire turbulent energy spectrum via simulations and experimental validations. 
+I worked for 2 years on developing fundamental models for improving the understanding of droplet and gas bubble breakup in turbulent flows. The idea was to improve the breakup kernels for population balance equation to account for the entire turbulent energy spectrum via simulations and experimental validations. For instance the following plot shows the level of improvement achieved by including the entire turbulent spectrum in one of the breakup models (see the green lines).
 
 
 <img src="images/extended_breakup.png?raw=true"/>
 
+
+More details about this work is summarized in [this presentation](/pdf/breakup_modeling.pdf).
 
 
 
