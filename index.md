@@ -30,4 +30,4 @@
 
 ---
 
-## [Notes](/notes)
+## [Nitty-gritties](/notes)
