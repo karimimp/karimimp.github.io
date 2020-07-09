@@ -29,3 +29,5 @@
 [List of Publications](/publications)
 
 ---
+
+## [Notes](/notes)
