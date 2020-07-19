@@ -9,7 +9,7 @@ All I need to do is just click on
 below tells the whole story. Just make sure to setup the animation objects 
 correctly:
 
-<img src="imgs/gui_animation.png?raw=true"/>
+<img src="imgs/gui_animation1.png?raw=true"/>
 
 The second method is something that I usually forget. It is rather rare to run 
 a simulation on the local machine and I often end up submitting my simulation
