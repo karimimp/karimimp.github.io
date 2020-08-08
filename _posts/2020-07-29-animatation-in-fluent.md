@@ -21,22 +21,21 @@ cluster, this should be done with TUI commands through a journal file by saving
 a sequence of solution snapshots. In brief, the journal 
 file should carry out three steps after reading the case and data files:
 
-1. Configure image output
+1. Configure images output
 2. Create contours
 3. Setup `execute-commands`
 
-So let's walk through the tree steps by creating and animation of how gas
+Let's walk through the tree steps by creating an animation of how gas
 bubbles disperse into the liquid phase in a bioreactor.
 
 <img src="/assets/posts_images/air_disperse.png?raw=true" 
 title="Air dispersion" class="align-center" width="600" heights="300"/>
 
-
-### 1. Configure image output
+### 1. Configure images output
 
 As the sequence of images are saved for certain number of time-steps or 
-iterations, it is utmost important to make sure the output images
-are consistence. This is done via the following commands in the journal file:
+iterations, it is important to make sure the output images
+are consistence. This is done via the following commands in a journal file:
 
 ```
 /display/set/contours/filled-contours yes
@@ -55,7 +54,7 @@ are consistence. This is done via the following commands in the journal file:
 
 The commands are rather self-explanatory, but for clarity, they setup the file
 extension to `png`, fix the resolutions, make sure the time is visible and set
-the color theme for images.
+the color theme for the images.
 
 ### 2. Create contours
 
@@ -86,7 +85,7 @@ wall_tube-part-solid
 /display/contour air vof 0 0.15
 ```
 
-A neat trick is to save the contour plots for `t = 0 s`, so the movie starts at
+A neat trick is to save the contour plots at `t = 0 s`, so the movie starts at
 time zero of the simulation.
 
 ```
@@ -96,8 +95,8 @@ time zero of the simulation.
 ### 3. Setup `execute-commands`
 
 The last step is to use `execute-commands` feature of Fluent to save snapshots 
-during the simulation for different time instances. One can save pictures at 
-different time-steps or iterations and always remember to enable that command!
+during the simulation for different time instances. I can save pictures at 
+different time-steps or iterations and always remember to enable the `execute-commands`!
 
 ```
 /solve/execute-commands/add-edit command-3 30 "time-step" "/display/contour air vof 0 0.15"
@@ -106,6 +105,4 @@ different time-steps or iterations and always remember to enable that command!
 /solve/execute-commands/enable command-4
 ```
 
-And that's pretty much all. 
-
-<!-- <img src="/assets/posts_images/air_anim.gif?raw=true"/> -->
+And that's pretty much it.
