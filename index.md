@@ -1,9 +1,4 @@
-
-
-
-## [Portfolio](/portfolioo)
-
-
 ---
-
-## [Nitty-gritties](/notes)
+layout: home
+paginate: true
+---
